@@ -30,5 +30,6 @@ STEP 7: Predicting the result
 STEP 8: Estimating the accuracy of the model for different algorithm.
 
 **Dataset Used:**
-https://github.com/namankabadi/IrisFlowerClassification/blob/main/Iris.csv
+https://github.com/namankabadi/IrisFlowerClassification/blob/main/Iris.csv**
 
+**Project Link:**https://colab.research.google.com/drive/1nsHiIgWD06TAhsfK6NoQogvhBV5rD30t?usp=sharing
